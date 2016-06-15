@@ -91,25 +91,25 @@
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.72549 0.486275 0.313725 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.72549 0.486275 0.313725 1</string>
+		<string>0.576471 0.219608 0.529412 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.701961 0.215686 0.215686 1</string>
+		<string>0.663518 0.391142 0.221699 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.701961 0.215686 0.215686 1</string>
+		<string>0.688074 0.219608 0.529412 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.72549 0.486275 0.313725 1</string>
+		<string>0.663518 0.391142 0.221699 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.72549 0.486275 0.313725 1</string>
+		<string>0.688074 0.219608 0.529412 1</string>
 		<key>xcode.syntax.identifier.macro</key>
 		<string>0.701961 0.215686 0.215686 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
 		<string>0.701961 0.215686 0.215686 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.576471 0.219608 0.529412 1</string>
-		<key>xcode.syntax.identifier.type.system</key>
 		<string>0.72549 0.486275 0.313725 1</string>
-		<key>xcode.syntax.identifier.variable</key>
+		<key>xcode.syntax.identifier.type.system</key>
 		<string>0.576471 0.219608 0.529412 1</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.72549 0.486275 0.313725 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>0.576471 0.219608 0.529412 1</string>
 		<key>xcode.syntax.keyword</key>
@@ -121,7 +121,7 @@
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.254902 0.607843 0.572549 1</string>
 		<key>xcode.syntax.string</key>
-		<string>0.521569 0.74902 0.364706 1</string>
+		<string>0.701961 0.215686 0.215686 1</string>
 		<key>xcode.syntax.url</key>
 		<string>0.458824 0.47451 0.741176 1</string>
 	</dict>
