@@ -93,9 +93,9 @@
 		<key>xcode.syntax.identifier.class.system</key>
 		<string>0.576471 0.219608 0.529412 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.663518 0.391142 0.221699 1</string>
+		<string>0.701961 0.215686 0.215686 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.688074 0.219608 0.529412 1</string>
+		<string>0.701961 0.215686 0.215686 1</string>
 		<key>xcode.syntax.identifier.function</key>
 		<string>0.663518 0.391142 0.221699 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
